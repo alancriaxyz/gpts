@@ -7,4 +7,4 @@ Welcome to the Prompt Library by @alancriaxyz, a treasure trove for those in sea
 
 1. 📝 **CriaStory**
    _A bot specialist created a post on Medium._
-   [Instruction](https://github.com/alancriaxyz/gpts/blob/main/instructions/CriaStory.txt)
+   [Instruction](https://github.com/alancriaxyz/gpts/blob/main/instructions/CriaStory.txt) | [GPT](https://chat.openai.com/g/g-hwULIraEJ-criastory)
