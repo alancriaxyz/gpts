@@ -5,6 +5,6 @@ Welcome to the Prompt Library by @alancriaxyz, a treasure trove for those in sea
 
 ## Available GPTs
 
-2. 📝 **CriaStory**
+1. 📝 **CriaStory**
    _A bot specialist created a post on Medium._
    [Instruction](https://github.com/alancriaxyz/gpts/blob/main/instructions/CriaStory.txt)
