@@ -3,8 +3,8 @@
 
 Seja bem-vindo(a) à biblioteca de prompts do @alancriaxyz, um refúgio excepcional para quem deseja inspiração e eficácia na criação de assistentes virtuais no ChatGPT. Neste espaço, apresentamos uma seleção primorosa de prompts personalizados, elaborados para satisfazer uma ampla gama de necessidades. Se o seu objetivo é estimular a criatividade, descobrir soluções práticas ou explorar conceitos inovadores, você está no lugar certo. Aqui, você terá acesso ao prompt ideal, meticulosamente desenvolvido para maximizar as capacidades do ChatGPT.
 
-## Available GPTs
+## GPTs
 
 1. 📝 **CriaPost**
-   _A bot specialist created a post._
-   [Instruction](https://github.com/alancriaxyz/gpts/blob/main/instructions/CriaPost.txt) | [GPT](https://chat.openai.com/g/g-hwULIraEJ-criapost)
+   _Um especialista em criar posts._
+   [Instruções](https://github.com/alancriaxyz/gpts/blob/main/instructions/CriaPost.txt) | [GPT](https://chat.openai.com/g/g-hwULIraEJ-criapost)
